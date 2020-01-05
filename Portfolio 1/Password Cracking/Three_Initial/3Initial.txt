@@ -1,0 +1,9 @@
+#55413   AVI12 $6$KB$FmTfpwFMTz.o88JW5ZCHeLgUNR7yHGWCWlMSJBmoUpg/3WlM5yttrKXQ05itpPN1vw4tgb5O0X6z86tBIJGtx/
+1757600 solutions explored
+#73191   BCD90 $6$KB$3B3xJgo5ev2qsG9hxZluBqPtfehOuPeZ/l7uSKXT1NsZaOrm6xqGSBLrsW.RM4pYfCexZxdL7TVW86AUEaTD..
+1757600 solutions explored
+#391787  FUR86 $6$KB$7Iw.3Zea0XI0MpTAa3gRGm9WZylw5xuvnDE1.mKmcGqvzTzmZPg5ER1gCR.bs1DlxE.ii6yeMOofcBdSrBbNG1
+1757600 solutions explored
+#1202546 RUN45 $6$KB$BuweWaLXbo9M4NgY2pLGa/5mBmVVENRdpUYyXSuGKvP855q74tnlusF0UT.9Fcte/E7/WvR85msWM7dvlhu3F1
+1757600 solutions explored
+Time elapsed was 14959574312818ns or 14959.574312818s
